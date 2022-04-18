@@ -11,9 +11,7 @@
                 <asp:GridView ID="GridView1" runat="server"></asp:GridView>
                 <asp:Literal ID="lit_msg" runat="server"></asp:Literal>
             </div>
-            <div class="form-group">
-
-            </div>
+            <div class="form-group"></div>
         </div>
         <div class="col-sm-2"></div>
     </div>

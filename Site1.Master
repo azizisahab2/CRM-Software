@@ -13,6 +13,15 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <div class="nav">
+                <ul>
+                    <li><a href="Call_status.aspx">Call_status</a></li>
+                    <li><a href="CustomerStatus.aspx">CustomerStatus</a> </li>
+                    <li><a href="ShowCallDetails.aspx">ShowCallDetails</a></li>
+                    <li><a href="ShowPendingCall.aspx">ShowPendingCall</a></li>
+                    <li><a href="TodaysCall.aspx">Todays Call</a></li>
+                </ul>
+            </div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
         </div>
